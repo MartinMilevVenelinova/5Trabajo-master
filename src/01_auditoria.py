@@ -129,7 +129,7 @@ def main():
     print("- 01_perfilado_columnas.csv")
     print("- 00_sample_paro_50.csv (opcional)")
     print("- 00_sample_censo_50.csv (opcional)")
-    print("\nAuditoría lista. Ya puedes pasar a 02_limpieza.py.")
+    print("\nAuditoría lista.")
 
 if __name__ == "__main__":
     main()
