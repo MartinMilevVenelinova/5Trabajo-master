@@ -1,0 +1,3 @@
+﻿dataset,columna,tipo,nulos,%_nulos,unicos,pista
+paro,Año;Tipo territorio;Código territorio;Territorio;Valor;Estado dato,object,0,0.0,3438,posible año/fecha
+censo,Año;Tipo territorio;Código territorio;Territorio;Edad;Nacionalidad;Sexo;Valor;Estado dato,object,0,0.0,151272,posible año/fecha
