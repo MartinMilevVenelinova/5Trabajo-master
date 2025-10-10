@@ -14,10 +14,6 @@ __pycache__/
 # --- VS Code ---
 .vscode/
 
-# --- Datos procesados (generados por tus scripts) ---
-# Ignora todo en processed, pero deja el .gitkeep para mantener la carpeta
-data/processed/**
-!data/processed/.gitkeep
 
 # --- Reports pesados / imágenes ---
 # Ignora imágenes y HTML grandes, pero deja el .gitkeep
