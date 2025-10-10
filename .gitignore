@@ -1,0 +1,34 @@
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+.dist/
+
+# --- VS Code ---
+.vscode/
+
+# --- Datos procesados (generados por tus scripts) ---
+# Ignora todo en processed, pero deja el .gitkeep para mantener la carpeta
+data/processed/**
+!data/processed/.gitkeep
+
+# --- Reports pesados / imágenes ---
+# Ignora imágenes y HTML grandes, pero deja el .gitkeep
+reports/plots/**
+!reports/plots/.gitkeep
+reports/*.html
+
+# --- Power BI temporales ---
+powerbi/*.tmp
+powerbi/*.pbix.tmp
+
+# --- Cosas típicas del sistema ---
+.DS_Store
+Thumbs.db
