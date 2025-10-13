@@ -1,0 +1,765 @@
+﻿year,date,territory_type,territory,unemp_rate,unemp_rate_yoy,unemp_rate_pp
+2021,2021-01-01,Comunidad de Madrid,Comunidad de Madrid,118,,
+2022,2022-01-01,Comunidad de Madrid,Comunidad de Madrid,-152,-228.8135593220339,-270.0
+2023,2023-01-01,Comunidad de Madrid,Comunidad de Madrid,-43,-71.71052631578947,109.0
+2024,2024-01-01,Comunidad de Madrid,Comunidad de Madrid,21,-148.8372093023256,64.0
+2021,2021-01-01,Municipios,Acebeda (La),-302,,
+2022,2022-01-01,Municipios,Acebeda (La),-82,-72.84768211920529,220.0
+2023,2023-01-01,Municipios,Acebeda (La),25,-130.4878048780488,107.0
+2024,2024-01-01,Municipios,Acebeda (La),-601,-2504.0,-626.0
+2021,2021-01-01,Municipios,Ajalvir,58,,
+2022,2022-01-01,Municipios,Ajalvir,-116,-300.0,-174.0
+2023,2023-01-01,Municipios,Ajalvir,-15,-87.06896551724138,101.0
+2024,2024-01-01,Municipios,Ajalvir,47,-413.33333333333326,62.0
+2021,2021-01-01,Municipios,Alameda del Valle,128,,
+2022,2022-01-01,Municipios,Alameda del Valle,-113,-188.28125,-241.0
+2023,2023-01-01,Municipios,Alameda del Valle,237,-309.7345132743363,350.0
+2024,2024-01-01,Municipios,Alameda del Valle,-38,-116.03375527426161,-275.0
+2021,2021-01-01,Municipios,Alcalá de Henares,116,,
+2022,2022-01-01,Municipios,Alcalá de Henares,-157,-235.3448275862069,-273.0
+2023,2023-01-01,Municipios,Alcalá de Henares,-6,-96.17834394904459,151.0
+2024,2024-01-01,Municipios,Alcalá de Henares,29,-583.3333333333333,35.0
+2021,2021-01-01,Municipios,Alcobendas,11,,
+2022,2022-01-01,Municipios,Alcobendas,-14,-227.27272727272725,-25.0
+2023,2023-01-01,Municipios,Alcobendas,-43,207.14285714285717,-29.0
+2024,2024-01-01,Municipios,Alcobendas,12,-127.90697674418605,55.0
+2021,2021-01-01,Municipios,Alcorcón,105,,
+2022,2022-01-01,Municipios,Alcorcón,-146,-239.04761904761904,-251.0
+2023,2023-01-01,Municipios,Alcorcón,-46,-68.49315068493152,100.0
+2024,2024-01-01,Municipios,Alcorcón,23,-150.0,69.0
+2021,2021-01-01,Municipios,Aldea del Fresno,107,,
+2022,2022-01-01,Municipios,Aldea del Fresno,-22,-120.56074766355141,-129.0
+2023,2023-01-01,Municipios,Aldea del Fresno,-37,68.18181818181819,-15.0
+2024,2024-01-01,Municipios,Aldea del Fresno,61,-264.86486486486484,98.0
+2021,2021-01-01,Municipios,Algete,107,,
+2022,2022-01-01,Municipios,Algete,-112,-204.6728971962617,-219.0
+2023,2023-01-01,Municipios,Algete,-53,-52.67857142857143,59.0
+2024,2024-01-01,Municipios,Algete,9,-116.98113207547169,62.0
+2021,2021-01-01,Municipios,Alpedrete,84,,
+2022,2022-01-01,Municipios,Alpedrete,-113,-234.52380952380955,-197.0
+2023,2023-01-01,Municipios,Alpedrete,-12,-89.38053097345133,101.0
+2024,2024-01-01,Municipios,Alpedrete,3,-125.0,15.0
+2021,2021-01-01,Municipios,Ambite,134,,
+2022,2022-01-01,Municipios,Ambite,-362,-370.14925373134326,-496.0
+2023,2023-01-01,Municipios,Ambite,93,-125.69060773480662,455.0
+2024,2024-01-01,Municipios,Ambite,-173,-286.0215053763441,-266.0
+2021,2021-01-01,Municipios,Anchuelo,129,,
+2022,2022-01-01,Municipios,Anchuelo,-219,-269.7674418604651,-348.0
+2023,2023-01-01,Municipios,Anchuelo,-89,-59.360730593607315,130.0
+2024,2024-01-01,Municipios,Anchuelo,89,-200.0,178.0
+2021,2021-01-01,Municipios,Aranjuez,104,,
+2022,2022-01-01,Municipios,Aranjuez,-142,-236.53846153846155,-246.0
+2023,2023-01-01,Municipios,Aranjuez,-65,-54.22535211267605,77.0
+2024,2024-01-01,Municipios,Aranjuez,55,-184.6153846153846,120.0
+2021,2021-01-01,Municipios,Arganda del Rey,104,,
+2022,2022-01-01,Municipios,Arganda del Rey,-192,-284.61538461538464,-296.0
+2023,2023-01-01,Municipios,Arganda del Rey,-79,-58.85416666666667,113.0
+2024,2024-01-01,Municipios,Arganda del Rey,25,-131.64556962025316,104.0
+2021,2021-01-01,Municipios,Arroyomolinos,81,,
+2022,2022-01-01,Municipios,Arroyomolinos,-106,-230.8641975308642,-187.0
+2023,2023-01-01,Municipios,Arroyomolinos,-41,-61.32075471698113,65.0
+2024,2024-01-01,Municipios,Arroyomolinos,14,-134.14634146341464,55.0
+2021,2021-01-01,Municipios,Atazar (El),304,,
+2022,2022-01-01,Municipios,Atazar (El),22,-92.76315789473684,-282.0
+2023,2023-01-01,Municipios,Atazar (El),35,59.09090909090908,13.0
+2024,2024-01-01,Municipios,Atazar (El),-689,-2068.571428571429,-724.0
+2021,2021-01-01,Municipios,Batres,59,,
+2022,2022-01-01,Municipios,Batres,-34,-157.6271186440678,-93.0
+2023,2023-01-01,Municipios,Batres,-88,158.82352941176472,-54.0
+2024,2024-01-01,Municipios,Batres,72,-181.81818181818184,160.0
+2021,2021-01-01,Municipios,Becerril de la Sierra,38,,
+2022,2022-01-01,Municipios,Becerril de la Sierra,-118,-410.52631578947364,-156.0
+2023,2023-01-01,Municipios,Becerril de la Sierra,47,-139.83050847457628,165.0
+2024,2024-01-01,Municipios,Becerril de la Sierra,15,-68.08510638297872,-32.0
+2021,2021-01-01,Municipios,Belmonte de Tajo,-34,,
+2022,2022-01-01,Municipios,Belmonte de Tajo,-3,-91.17647058823529,31.0
+2023,2023-01-01,Municipios,Belmonte de Tajo,-69,2200.0,-66.0
+2024,2024-01-01,Municipios,Belmonte de Tajo,39,-156.52173913043475,108.0
+2021,2021-01-01,Municipios,Berrueco (El),4,,
+2022,2022-01-01,Municipios,Berrueco (El),-65,-1725.0,-69.0
+2023,2023-01-01,Municipios,Berrueco (El),37,-156.92307692307693,102.0
+2024,2024-01-01,Municipios,Berrueco (El),115,210.81081081081078,78.0
+2021,2021-01-01,Municipios,Berzosa del Lozoya,333,,
+2022,2022-01-01,Municipios,Berzosa del Lozoya,-384,-215.3153153153153,-717.0
+2023,2023-01-01,Municipios,Berzosa del Lozoya,58,-115.10416666666667,442.0
+2024,2024-01-01,Municipios,Berzosa del Lozoya,2,-96.55172413793103,-56.0
+2021,2021-01-01,Municipios,Boadilla del Monte,38,,
+2022,2022-01-01,Municipios,Boadilla del Monte,-71,-286.84210526315786,-109.0
+2023,2023-01-01,Municipios,Boadilla del Monte,-18,-74.64788732394366,53.0
+2024,2024-01-01,Municipios,Boadilla del Monte,12,-166.66666666666666,30.0
+2021,2021-01-01,Municipios,Boalo (El),39,,
+2022,2022-01-01,Municipios,Boalo (El),-79,-302.56410256410254,-118.0
+2023,2023-01-01,Municipios,Boalo (El),-63,-20.253164556962023,16.0
+2024,2024-01-01,Municipios,Boalo (El),7,-111.11111111111111,70.0
+2021,2021-01-01,Municipios,Braojos,17,,
+2022,2022-01-01,Municipios,Braojos,-46,-370.5882352941177,-63.0
+2023,2023-01-01,Municipios,Braojos,-84,82.6086956521739,-38.0
+2024,2024-01-01,Municipios,Braojos,-10,-88.09523809523809,74.0
+2021,2021-01-01,Municipios,Brea de Tajo,18,,
+2022,2022-01-01,Municipios,Brea de Tajo,-185,-1127.7777777777778,-203.0
+2023,2023-01-01,Municipios,Brea de Tajo,-151,-18.37837837837838,34.0
+2024,2024-01-01,Municipios,Brea de Tajo,-152,0.6622516556291425,-1.0
+2021,2021-01-01,Municipios,Brunete,81,,
+2022,2022-01-01,Municipios,Brunete,-126,-255.55555555555554,-207.0
+2023,2023-01-01,Municipios,Brunete,-32,-74.60317460317461,94.0
+2024,2024-01-01,Municipios,Brunete,23,-171.875,55.0
+2021,2021-01-01,Municipios,Buitrago del Lozoya,206,,
+2022,2022-01-01,Municipios,Buitrago del Lozoya,-244,-218.44660194174756,-450.0
+2023,2023-01-01,Municipios,Buitrago del Lozoya,37,-115.1639344262295,281.0
+2024,2024-01-01,Municipios,Buitrago del Lozoya,14,-62.16216216216216,-23.0
+2021,2021-01-01,Municipios,Bustarviejo,51,,
+2022,2022-01-01,Municipios,Bustarviejo,-9,-117.64705882352942,-60.0
+2023,2023-01-01,Municipios,Bustarviejo,-22,144.44444444444446,-13.0
+2024,2024-01-01,Municipios,Bustarviejo,38,-272.72727272727275,60.0
+2021,2021-01-01,Municipios,Cabanillas de la Sierra,241,,
+2022,2022-01-01,Municipios,Cabanillas de la Sierra,-139,-157.67634854771785,-380.0
+2023,2023-01-01,Municipios,Cabanillas de la Sierra,-63,-54.67625899280575,76.0
+2024,2024-01-01,Municipios,Cabanillas de la Sierra,31,-149.20634920634922,94.0
+2021,2021-01-01,Municipios,Cabrera (La),42,,
+2022,2022-01-01,Municipios,Cabrera (La),-174,-514.2857142857143,-216.0
+2023,2023-01-01,Municipios,Cabrera (La),-9,-94.82758620689656,165.0
+2024,2024-01-01,Municipios,Cabrera (La),63,-800.0,72.0
+2021,2021-01-01,Municipios,Cadalso de los Vidrios,61,,
+2022,2022-01-01,Municipios,Cadalso de los Vidrios,-113,-285.24590163934425,-174.0
+2023,2023-01-01,Municipios,Cadalso de los Vidrios,-164,45.13274336283186,-51.0
+2024,2024-01-01,Municipios,Cadalso de los Vidrios,13,-107.92682926829269,177.0
+2021,2021-01-01,Municipios,Camarma de Esteruelas,7,,
+2022,2022-01-01,Municipios,Camarma de Esteruelas,-141,-2114.285714285714,-148.0
+2023,2023-01-01,Municipios,Camarma de Esteruelas,-55,-60.99290780141844,86.0
+2024,2024-01-01,Municipios,Camarma de Esteruelas,24,-143.63636363636363,79.0
+2021,2021-01-01,Municipios,Campo Real,111,,
+2022,2022-01-01,Municipios,Campo Real,-77,-169.36936936936937,-188.0
+2023,2023-01-01,Municipios,Campo Real,-125,62.33766233766234,-48.0
+2024,2024-01-01,Municipios,Campo Real,4,-103.2,129.0
+2021,2021-01-01,Municipios,Canencia,89,,
+2022,2022-01-01,Municipios,Canencia,-188,-311.23595505617976,-277.0
+2023,2023-01-01,Municipios,Canencia,-27,-85.63829787234043,161.0
+2024,2024-01-01,Municipios,Canencia,12,-144.44444444444443,39.0
+2021,2021-01-01,Municipios,Carabaña,5,,
+2022,2022-01-01,Municipios,Carabaña,-69,-1480.0,-74.0
+2023,2023-01-01,Municipios,Carabaña,-72,4.347826086956519,-3.0
+2024,2024-01-01,Municipios,Carabaña,8,-111.11111111111111,80.0
+2021,2021-01-01,Municipios,Casarrubuelos,79,,
+2022,2022-01-01,Municipios,Casarrubuelos,-105,-232.91139240506328,-184.0
+2023,2023-01-01,Municipios,Casarrubuelos,-98,-6.666666666666665,7.0
+2024,2024-01-01,Municipios,Casarrubuelos,31,-131.6326530612245,129.0
+2021,2021-01-01,Municipios,Cenicientos,-2,,
+2022,2022-01-01,Municipios,Cenicientos,-89,4350.0,-87.0
+2023,2023-01-01,Municipios,Cenicientos,-118,32.584269662921336,-29.0
+2024,2024-01-01,Municipios,Cenicientos,9,-107.62711864406779,127.0
+2021,2021-01-01,Municipios,Cercedilla,75,,
+2022,2022-01-01,Municipios,Cercedilla,-8,-110.66666666666667,-83.0
+2023,2023-01-01,Municipios,Cercedilla,-34,325.0,-26.0
+2024,2024-01-01,Municipios,Cercedilla,52,-252.94117647058823,86.0
+2021,2021-01-01,Municipios,Cervera de Buitrago,204,,
+2022,2022-01-01,Municipios,Cervera de Buitrago,-109,-153.43137254901958,-313.0
+2023,2023-01-01,Municipios,Cervera de Buitrago,142,-230.27522935779814,251.0
+2024,2024-01-01,Municipios,Cervera de Buitrago,-109,-176.7605633802817,-251.0
+2021,2021-01-01,Municipios,Chapinería,-6,,
+2022,2022-01-01,Municipios,Chapinería,-225,3650.0,-219.0
+2023,2023-01-01,Municipios,Chapinería,-13,-94.22222222222221,212.0
+2024,2024-01-01,Municipios,Chapinería,8,-161.53846153846155,21.0
+2021,2021-01-01,Municipios,Chinchón,61,,
+2022,2022-01-01,Municipios,Chinchón,-119,-295.08196721311475,-180.0
+2023,2023-01-01,Municipios,Chinchón,-2,-98.31932773109243,117.0
+2024,2024-01-01,Municipios,Chinchón,3,-250.0,5.0
+2021,2021-01-01,Municipios,Ciempozuelos,146,,
+2022,2022-01-01,Municipios,Ciempozuelos,-189,-229.45205479452056,-335.0
+2023,2023-01-01,Municipios,Ciempozuelos,-63,-66.66666666666667,126.0
+2024,2024-01-01,Municipios,Ciempozuelos,41,-165.07936507936506,104.0
+2021,2021-01-01,Municipios,Cobeña,103,,
+2022,2022-01-01,Municipios,Cobeña,-93,-190.29126213592232,-196.0
+2023,2023-01-01,Municipios,Cobeña,-8,-91.39784946236558,85.0
+2024,2024-01-01,Municipios,Cobeña,1,-112.5,9.0
+2021,2021-01-01,Municipios,Collado Mediano,97,,
+2022,2022-01-01,Municipios,Collado Mediano,-147,-251.5463917525773,-244.0
+2023,2023-01-01,Municipios,Collado Mediano,-57,-61.224489795918366,90.0
+2024,2024-01-01,Municipios,Collado Mediano,6,-110.52631578947367,63.0
+2021,2021-01-01,Municipios,Collado Villalba,105,,
+2022,2022-01-01,Municipios,Collado Villalba,-164,-256.19047619047615,-269.0
+2023,2023-01-01,Municipios,Collado Villalba,-5,-96.95121951219512,159.0
+2024,2024-01-01,Municipios,Collado Villalba,16,-420.0,21.0
+2021,2021-01-01,Municipios,Colmenar Viejo,78,,
+2022,2022-01-01,Municipios,Colmenar Viejo,-133,-270.51282051282055,-211.0
+2023,2023-01-01,Municipios,Colmenar Viejo,-46,-65.41353383458647,87.0
+2024,2024-01-01,Municipios,Colmenar Viejo,22,-147.82608695652172,68.0
+2021,2021-01-01,Municipios,Colmenar de Oreja,45,,
+2022,2022-01-01,Municipios,Colmenar de Oreja,-152,-437.7777777777778,-197.0
+2023,2023-01-01,Municipios,Colmenar de Oreja,-61,-59.86842105263157,91.0
+2024,2024-01-01,Municipios,Colmenar de Oreja,19,-131.14754098360658,80.0
+2021,2021-01-01,Municipios,Colmenar del Arroyo,-52,,
+2022,2022-01-01,Municipios,Colmenar del Arroyo,13,-125.0,65.0
+2023,2023-01-01,Municipios,Colmenar del Arroyo,-5,-138.46153846153845,-18.0
+2024,2024-01-01,Municipios,Colmenar del Arroyo,36,-819.9999999999999,41.0
+2021,2021-01-01,Municipios,Colmenarejo,101,,
+2022,2022-01-01,Municipios,Colmenarejo,-132,-230.6930693069307,-233.0
+2023,2023-01-01,Municipios,Colmenarejo,-42,-68.18181818181819,90.0
+2024,2024-01-01,Municipios,Colmenarejo,21,-150.0,63.0
+2021,2021-01-01,Municipios,Corpa,213,,
+2022,2022-01-01,Municipios,Corpa,-116,-154.4600938967136,-329.0
+2023,2023-01-01,Municipios,Corpa,-194,67.24137931034481,-78.0
+2024,2024-01-01,Municipios,Corpa,105,-154.12371134020617,299.0
+2021,2021-01-01,Municipios,Coslada,124,,
+2022,2022-01-01,Municipios,Coslada,-148,-219.3548387096774,-272.0
+2023,2023-01-01,Municipios,Coslada,-46,-68.91891891891892,102.0
+2024,2024-01-01,Municipios,Coslada,38,-182.60869565217394,84.0
+2021,2021-01-01,Municipios,Cubas de la Sagra,51,,
+2022,2022-01-01,Municipios,Cubas de la Sagra,-127,-349.01960784313724,-178.0
+2023,2023-01-01,Municipios,Cubas de la Sagra,8,-106.29921259842519,135.0
+2024,2024-01-01,Municipios,Cubas de la Sagra,43,437.5,35.0
+2021,2021-01-01,Municipios,Daganzo de Arriba,67,,
+2022,2022-01-01,Municipios,Daganzo de Arriba,-102,-252.23880597014926,-169.0
+2023,2023-01-01,Municipios,Daganzo de Arriba,-28,-72.54901960784314,74.0
+2024,2024-01-01,Municipios,Daganzo de Arriba,44,-257.1428571428571,72.0
+2021,2021-01-01,Municipios,Escorial (El),42,,
+2022,2022-01-01,Municipios,Escorial (El),-107,-354.76190476190476,-149.0
+2023,2023-01-01,Municipios,Escorial (El),1,-100.93457943925233,108.0
+2024,2024-01-01,Municipios,Escorial (El),13,1200.0,12.0
+2021,2021-01-01,Municipios,Estremera,92,,
+2022,2022-01-01,Municipios,Estremera,-158,-271.7391304347826,-250.0
+2023,2023-01-01,Municipios,Estremera,9,-105.69620253164558,167.0
+2024,2024-01-01,Municipios,Estremera,81,800.0,72.0
+2021,2021-01-01,Municipios,Fresnedillas de la Oliva,136,,
+2022,2022-01-01,Municipios,Fresnedillas de la Oliva,-109,-180.14705882352942,-245.0
+2023,2023-01-01,Municipios,Fresnedillas de la Oliva,-47,-56.88073394495412,62.0
+2024,2024-01-01,Municipios,Fresnedillas de la Oliva,28,-159.5744680851064,75.0
+2021,2021-01-01,Municipios,Fresno de Torote,105,,
+2022,2022-01-01,Municipios,Fresno de Torote,-36,-134.2857142857143,-141.0
+2023,2023-01-01,Municipios,Fresno de Torote,-139,286.11111111111114,-103.0
+2024,2024-01-01,Municipios,Fresno de Torote,15,-110.79136690647482,154.0
+2021,2021-01-01,Municipios,Fuenlabrada,139,,
+2022,2022-01-01,Municipios,Fuenlabrada,-18,-112.9496402877698,-157.0
+2023,2023-01-01,Municipios,Fuenlabrada,-46,155.55555555555554,-28.0
+2024,2024-01-01,Municipios,Fuenlabrada,46,-200.0,92.0
+2021,2021-01-01,Municipios,Fuente el Saz de Jarama,75,,
+2022,2022-01-01,Municipios,Fuente el Saz de Jarama,-137,-282.6666666666667,-212.0
+2023,2023-01-01,Municipios,Fuente el Saz de Jarama,-6,-95.62043795620438,131.0
+2024,2024-01-01,Municipios,Fuente el Saz de Jarama,8,-233.33333333333331,14.0
+2021,2021-01-01,Municipios,Fuentidueña de Tajo,157,,
+2022,2022-01-01,Municipios,Fuentidueña de Tajo,-67,-142.67515923566881,-224.0
+2023,2023-01-01,Municipios,Fuentidueña de Tajo,-166,147.76119402985074,-99.0
+2024,2024-01-01,Municipios,Fuentidueña de Tajo,9,-105.42168674698796,175.0
+2021,2021-01-01,Municipios,Galapagar,107,,
+2022,2022-01-01,Municipios,Galapagar,-149,-239.25233644859816,-256.0
+2023,2023-01-01,Municipios,Galapagar,-25,-83.22147651006712,124.0
+2024,2024-01-01,Municipios,Galapagar,13,-152.0,38.0
+2021,2021-01-01,Municipios,Garganta de los Montes,-137,,
+2022,2022-01-01,Municipios,Garganta de los Montes,-126,-8.029197080291972,11.0
+2023,2023-01-01,Municipios,Garganta de los Montes,17,-113.4920634920635,143.0
+2024,2024-01-01,Municipios,Garganta de los Montes,91,435.2941176470588,74.0
+2021,2021-01-01,Municipios,Gargantilla del Lozoya y Pinilla de Buitrago,83,,
+2022,2022-01-01,Municipios,Gargantilla del Lozoya y Pinilla de Buitrago,5,-93.97590361445783,-78.0
+2023,2023-01-01,Municipios,Gargantilla del Lozoya y Pinilla de Buitrago,-181,-3720.0000000000005,-186.0
+2024,2024-01-01,Municipios,Gargantilla del Lozoya y Pinilla de Buitrago,38,-120.99447513812154,219.0
+2021,2021-01-01,Municipios,Gascones,235,,
+2022,2022-01-01,Municipios,Gascones,37,-84.25531914893617,-198.0
+2023,2023-01-01,Municipios,Gascones,-177,-578.3783783783784,-214.0
+2024,2024-01-01,Municipios,Gascones,149,-184.180790960452,326.0
+2021,2021-01-01,Municipios,Getafe,136,,
+2022,2022-01-01,Municipios,Getafe,-164,-220.58823529411765,-300.0
+2023,2023-01-01,Municipios,Getafe,-42,-74.39024390243902,122.0
+2024,2024-01-01,Municipios,Getafe,27,-164.28571428571428,69.0
+2021,2021-01-01,Municipios,Griñón,55,,
+2022,2022-01-01,Municipios,Griñón,-74,-234.54545454545456,-129.0
+2023,2023-01-01,Municipios,Griñón,-32,-56.75675675675676,42.0
+2024,2024-01-01,Municipios,Griñón,19,-159.375,51.0
+2021,2021-01-01,Municipios,Guadalix de la Sierra,103,,
+2022,2022-01-01,Municipios,Guadalix de la Sierra,-137,-233.00970873786406,-240.0
+2023,2023-01-01,Municipios,Guadalix de la Sierra,-47,-65.69343065693431,90.0
+2024,2024-01-01,Municipios,Guadalix de la Sierra,18,-138.29787234042553,65.0
+2021,2021-01-01,Municipios,Guadarrama,55,,
+2022,2022-01-01,Municipios,Guadarrama,-88,-260.0,-143.0
+2023,2023-01-01,Municipios,Guadarrama,-34,-61.36363636363637,54.0
+2024,2024-01-01,Municipios,Guadarrama,9,-126.47058823529412,43.0
+2021,2021-01-01,Municipios,Hiruela (La),-3,,
+2022,2022-01-01,Municipios,Hiruela (La),-11,266.66666666666663,-8.0
+2023,2023-01-01,Municipios,Hiruela (La),4,-136.36363636363637,15.0
+2024,2024-01-01,Municipios,Hiruela (La),-15,-475.0,-19.0
+2021,2021-01-01,Municipios,Horcajo de la Sierra-Aoslos,193,,
+2022,2022-01-01,Municipios,Horcajo de la Sierra-Aoslos,-14,-107.25388601036269,-207.0
+2023,2023-01-01,Municipios,Horcajo de la Sierra-Aoslos,-106,657.1428571428571,-92.0
+2024,2024-01-01,Municipios,Horcajo de la Sierra-Aoslos,87,-182.07547169811323,193.0
+2021,2021-01-01,Municipios,Horcajuelo de la Sierra,418,,
+2022,2022-01-01,Municipios,Horcajuelo de la Sierra,-482,-215.31100478468898,-900.0
+2023,2023-01-01,Municipios,Horcajuelo de la Sierra,5,-101.03734439834025,487.0
+2024,2024-01-01,Municipios,Horcajuelo de la Sierra,8,60.00000000000001,3.0
+2021,2021-01-01,Municipios,Hoyo de Manzanares,76,,
+2022,2022-01-01,Municipios,Hoyo de Manzanares,-118,-255.26315789473682,-194.0
+2023,2023-01-01,Municipios,Hoyo de Manzanares,-24,-79.66101694915254,94.0
+2024,2024-01-01,Municipios,Hoyo de Manzanares,16,-166.66666666666666,40.0
+2021,2021-01-01,Municipios,Humanes de Madrid,123,,
+2022,2022-01-01,Municipios,Humanes de Madrid,-171,-239.02439024390242,-294.0
+2023,2023-01-01,Municipios,Humanes de Madrid,-52,-69.5906432748538,119.0
+2024,2024-01-01,Municipios,Humanes de Madrid,1,-101.92307692307692,53.0
+2021,2021-01-01,Municipios,Leganés,119,,
+2022,2022-01-01,Municipios,Leganés,-148,-224.36974789915968,-267.0
+2023,2023-01-01,Municipios,Leganés,-61,-58.78378378378378,87.0
+2024,2024-01-01,Municipios,Leganés,31,-150.81967213114754,92.0
+2021,2021-01-01,Municipios,Loeches,112,,
+2022,2022-01-01,Municipios,Loeches,-99,-188.39285714285714,-211.0
+2023,2023-01-01,Municipios,Loeches,-54,-45.45454545454546,45.0
+2024,2024-01-01,Municipios,Loeches,34,-162.962962962963,88.0
+2021,2021-01-01,Municipios,Lozoya,23,,
+2022,2022-01-01,Municipios,Lozoya,-58,-352.17391304347825,-81.0
+2023,2023-01-01,Municipios,Lozoya,5,-108.62068965517241,63.0
+2024,2024-01-01,Municipios,Lozoya,-11,-320.0,-16.0
+2021,2021-01-01,Municipios,Lozoyuela-Navas-Sieteiglesias,265,,
+2022,2022-01-01,Municipios,Lozoyuela-Navas-Sieteiglesias,-359,-235.47169811320754,-624.0
+2023,2023-01-01,Municipios,Lozoyuela-Navas-Sieteiglesias,61,-116.99164345403901,420.0
+2024,2024-01-01,Municipios,Lozoyuela-Navas-Sieteiglesias,81,32.78688524590163,20.0
+2021,2021-01-01,Municipios,Madarcos,-408,,
+2022,2022-01-01,Municipios,Madarcos,159,-138.97058823529412,567.0
+2023,2023-01-01,Municipios,Madarcos,-2,-101.25786163522012,-161.0
+2024,2024-01-01,Municipios,Madarcos,4,-300.0,6.0
+2021,2021-01-01,Municipios,Madrid,131,,
+2022,2022-01-01,Municipios,Madrid,-163,-224.42748091603053,-294.0
+2023,2023-01-01,Municipios,Madrid,-38,-76.68711656441718,125.0
+2024,2024-01-01,Municipios,Madrid,2,-105.26315789473684,40.0
+2021,2021-01-01,Municipios,Majadahonda,86,,
+2022,2022-01-01,Municipios,Majadahonda,-101,-217.44186046511632,-187.0
+2023,2023-01-01,Municipios,Majadahonda,-26,-74.25742574257426,75.0
+2024,2024-01-01,Municipios,Majadahonda,2,-107.6923076923077,28.0
+2021,2021-01-01,Municipios,Manzanares el Real,39,,
+2022,2022-01-01,Municipios,Manzanares el Real,-134,-443.5897435897436,-173.0
+2023,2023-01-01,Municipios,Manzanares el Real,-8,-94.02985074626866,126.0
+2024,2024-01-01,Municipios,Manzanares el Real,68,-950.0,76.0
+2021,2021-01-01,Municipios,Meco,51,,
+2022,2022-01-01,Municipios,Meco,-157,-407.84313725490193,-208.0
+2023,2023-01-01,Municipios,Meco,-43,-72.61146496815287,114.0
+2024,2024-01-01,Municipios,Meco,52,-220.93023255813952,95.0
+2021,2021-01-01,Municipios,Mejorada del Campo,125,,
+2022,2022-01-01,Municipios,Mejorada del Campo,-181,-244.79999999999998,-306.0
+2023,2023-01-01,Municipios,Mejorada del Campo,-65,-64.08839779005524,116.0
+2024,2024-01-01,Municipios,Mejorada del Campo,14,-121.53846153846155,79.0
+2021,2021-01-01,Municipios,Miraflores de la Sierra,44,,
+2022,2022-01-01,Municipios,Miraflores de la Sierra,-114,-359.09090909090907,-158.0
+2023,2023-01-01,Municipios,Miraflores de la Sierra,-55,-51.75438596491229,59.0
+2024,2024-01-01,Municipios,Miraflores de la Sierra,3,-105.45454545454544,58.0
+2021,2021-01-01,Municipios,Molar (El),12,,
+2022,2022-01-01,Municipios,Molar (El),-144,-1300.0,-156.0
+2023,2023-01-01,Municipios,Molar (El),-24,-83.33333333333334,120.0
+2024,2024-01-01,Municipios,Molar (El),15,-162.5,39.0
+2021,2021-01-01,Municipios,Molinos (Los),88,,
+2022,2022-01-01,Municipios,Molinos (Los),-144,-263.6363636363637,-232.0
+2023,2023-01-01,Municipios,Molinos (Los),-53,-63.19444444444444,91.0
+2024,2024-01-01,Municipios,Molinos (Los),14,-126.41509433962264,67.0
+2021,2021-01-01,Municipios,Montejo de la Sierra,-221,,
+2022,2022-01-01,Municipios,Montejo de la Sierra,-6,-97.28506787330316,215.0
+2023,2023-01-01,Municipios,Montejo de la Sierra,-7,16.666666666666675,-1.0
+2024,2024-01-01,Municipios,Montejo de la Sierra,75,-1171.4285714285713,82.0
+2021,2021-01-01,Municipios,Moraleja de Enmedio,92,,
+2022,2022-01-01,Municipios,Moraleja de Enmedio,-156,-269.5652173913044,-248.0
+2023,2023-01-01,Municipios,Moraleja de Enmedio,-44,-71.7948717948718,112.0
+2024,2024-01-01,Municipios,Moraleja de Enmedio,35,-179.54545454545453,79.0
+2021,2021-01-01,Municipios,Moralzarzal,66,,
+2022,2022-01-01,Municipios,Moralzarzal,-133,-301.5151515151515,-199.0
+2023,2023-01-01,Municipios,Moralzarzal,-38,-71.42857142857143,95.0
+2024,2024-01-01,Municipios,Moralzarzal,24,-163.1578947368421,62.0
+2021,2021-01-01,Municipios,Morata de Tajuña,97,,
+2022,2022-01-01,Municipios,Morata de Tajuña,-163,-268.0412371134021,-260.0
+2023,2023-01-01,Municipios,Morata de Tajuña,-91,-44.171779141104295,72.0
+2024,2024-01-01,Municipios,Morata de Tajuña,42,-146.15384615384616,133.0
+2021,2021-01-01,Municipios,Móstoles,116,,
+2022,2022-01-01,Municipios,Móstoles,-157,-235.3448275862069,-273.0
+2023,2023-01-01,Municipios,Móstoles,-59,-62.42038216560509,98.0
+2024,2024-01-01,Municipios,Móstoles,2,-103.38983050847457,61.0
+2021,2021-01-01,Municipios,Navacerrada,116,,
+2022,2022-01-01,Municipios,Navacerrada,-149,-228.44827586206895,-265.0
+2023,2023-01-01,Municipios,Navacerrada,-2,-98.65771812080537,147.0
+2024,2024-01-01,Municipios,Navacerrada,5,-350.0,7.0
+2021,2021-01-01,Municipios,Navalafuente,143,,
+2022,2022-01-01,Municipios,Navalafuente,-242,-269.2307692307692,-385.0
+2023,2023-01-01,Municipios,Navalafuente,12,-104.95867768595042,254.0
+2024,2024-01-01,Municipios,Navalafuente,14,16.666666666666675,2.0
+2021,2021-01-01,Municipios,Navalagamella,12,,
+2022,2022-01-01,Municipios,Navalagamella,-75,-725.0,-87.0
+2023,2023-01-01,Municipios,Navalagamella,-19,-74.66666666666666,56.0
+2024,2024-01-01,Municipios,Navalagamella,18,-194.73684210526315,37.0
+2021,2021-01-01,Municipios,Navalcarnero,107,,
+2022,2022-01-01,Municipios,Navalcarnero,-119,-211.21495327102804,-226.0
+2023,2023-01-01,Municipios,Navalcarnero,-10,-91.59663865546219,109.0
+2024,2024-01-01,Municipios,Navalcarnero,21,-310.0,31.0
+2021,2021-01-01,Municipios,Navarredonda y San Mamés,-188,,
+2022,2022-01-01,Municipios,Navarredonda y San Mamés,8,-104.25531914893618,196.0
+2023,2023-01-01,Municipios,Navarredonda y San Mamés,-35,-537.5,-43.0
+2024,2024-01-01,Municipios,Navarredonda y San Mamés,69,-297.14285714285717,104.0
+2021,2021-01-01,Municipios,Navas del Rey,9,,
+2022,2022-01-01,Municipios,Navas del Rey,-182,-2122.222222222222,-191.0
+2023,2023-01-01,Municipios,Navas del Rey,-10,-94.5054945054945,172.0
+2024,2024-01-01,Municipios,Navas del Rey,51,-610.0,61.0
+2021,2021-01-01,Municipios,Nuevo Baztán,123,,
+2022,2022-01-01,Municipios,Nuevo Baztán,-221,-279.6747967479675,-344.0
+2023,2023-01-01,Municipios,Nuevo Baztán,4,-101.80995475113122,225.0
+2024,2024-01-01,Municipios,Nuevo Baztán,24,500.0,20.0
+2021,2021-01-01,Municipios,Olmeda de las Fuentes,-7,,
+2022,2022-01-01,Municipios,Olmeda de las Fuentes,-73,942.8571428571429,-66.0
+2023,2023-01-01,Municipios,Olmeda de las Fuentes,178,-343.83561643835617,251.0
+2024,2024-01-01,Municipios,Olmeda de las Fuentes,-105,-158.98876404494382,-283.0
+2021,2021-01-01,Municipios,Orusco de Tajuña,173,,
+2022,2022-01-01,Municipios,Orusco de Tajuña,-183,-205.78034682080926,-356.0
+2023,2023-01-01,Municipios,Orusco de Tajuña,-9,-95.08196721311475,174.0
+2024,2024-01-01,Municipios,Orusco de Tajuña,23,-355.55555555555554,32.0
+2021,2021-01-01,Municipios,Paracuellos de Jarama,91,,
+2022,2022-01-01,Municipios,Paracuellos de Jarama,-84,-192.30769230769232,-175.0
+2023,2023-01-01,Municipios,Paracuellos de Jarama,-26,-69.04761904761905,58.0
+2024,2024-01-01,Municipios,Paracuellos de Jarama,0,-100.0,26.0
+2021,2021-01-01,Municipios,Parla,126,,
+2022,2022-01-01,Municipios,Parla,-177,-240.47619047619045,-303.0
+2023,2023-01-01,Municipios,Parla,-74,-58.192090395480236,103.0
+2024,2024-01-01,Municipios,Parla,28,-137.83783783783784,102.0
+2021,2021-01-01,Municipios,Patones,18,,
+2022,2022-01-01,Municipios,Patones,-179,-1094.4444444444446,-197.0
+2023,2023-01-01,Municipios,Patones,73,-140.78212290502793,252.0
+2024,2024-01-01,Municipios,Patones,11,-84.93150684931507,-62.0
+2021,2021-01-01,Municipios,Pedrezuela,98,,
+2022,2022-01-01,Municipios,Pedrezuela,-128,-230.61224489795916,-226.0
+2023,2023-01-01,Municipios,Pedrezuela,-38,-70.3125,90.0
+2024,2024-01-01,Municipios,Pedrezuela,51,-234.21052631578948,89.0
+2021,2021-01-01,Municipios,Pelayos de la Presa,256,,
+2022,2022-01-01,Municipios,Pelayos de la Presa,-253,-198.828125,-509.0
+2023,2023-01-01,Municipios,Pelayos de la Presa,-196,-22.529644268774707,57.0
+2024,2024-01-01,Municipios,Pelayos de la Presa,45,-122.95918367346938,241.0
+2021,2021-01-01,Municipios,Perales de Tajuña,11,,
+2022,2022-01-01,Municipios,Perales de Tajuña,-125,-1236.3636363636363,-136.0
+2023,2023-01-01,Municipios,Perales de Tajuña,-118,-5.600000000000005,7.0
+2024,2024-01-01,Municipios,Perales de Tajuña,45,-138.13559322033896,163.0
+2021,2021-01-01,Municipios,Pezuela de las Torres,165,,
+2022,2022-01-01,Municipios,Pezuela de las Torres,-217,-231.51515151515153,-382.0
+2023,2023-01-01,Municipios,Pezuela de las Torres,155,-171.42857142857144,372.0
+2024,2024-01-01,Municipios,Pezuela de las Torres,98,-36.7741935483871,-57.0
+2021,2021-01-01,Municipios,Pinilla del Valle,33,,
+2022,2022-01-01,Municipios,Pinilla del Valle,-57,-272.72727272727275,-90.0
+2023,2023-01-01,Municipios,Pinilla del Valle,-65,14.035087719298245,-8.0
+2024,2024-01-01,Municipios,Pinilla del Valle,9,-113.84615384615384,74.0
+2021,2021-01-01,Municipios,Pinto,102,,
+2022,2022-01-01,Municipios,Pinto,-166,-262.7450980392157,-268.0
+2023,2023-01-01,Municipios,Pinto,-53,-68.07228915662651,113.0
+2024,2024-01-01,Municipios,Pinto,31,-158.49056603773585,84.0
+2021,2021-01-01,Municipios,Piñuécar-Gandullas,194,,
+2022,2022-01-01,Municipios,Piñuécar-Gandullas,-43,-122.16494845360826,-237.0
+2023,2023-01-01,Municipios,Piñuécar-Gandullas,-21,-51.162790697674424,22.0
+2024,2024-01-01,Municipios,Piñuécar-Gandullas,154,-833.3333333333333,175.0
+2021,2021-01-01,Municipios,Pozuelo de Alarcón,46,,
+2022,2022-01-01,Municipios,Pozuelo de Alarcón,-63,-236.95652173913047,-109.0
+2023,2023-01-01,Municipios,Pozuelo de Alarcón,-19,-69.84126984126983,44.0
+2024,2024-01-01,Municipios,Pozuelo de Alarcón,2,-110.52631578947367,21.0
+2021,2021-01-01,Municipios,Pozuelo del Rey,158,,
+2022,2022-01-01,Municipios,Pozuelo del Rey,-246,-255.6962025316456,-404.0
+2023,2023-01-01,Municipios,Pozuelo del Rey,28,-111.3821138211382,274.0
+2024,2024-01-01,Municipios,Pozuelo del Rey,57,103.57142857142856,29.0
+2021,2021-01-01,Municipios,Prádena del Rincón,-39,,
+2022,2022-01-01,Municipios,Prádena del Rincón,71,-282.05128205128204,110.0
+2023,2023-01-01,Municipios,Prádena del Rincón,128,80.28169014084507,57.0
+2024,2024-01-01,Municipios,Prádena del Rincón,-256,-300.0,-384.0
+2021,2021-01-01,Municipios,Puebla de la Sierra,-285,,
+2022,2022-01-01,Municipios,Puebla de la Sierra,-162,-43.15789473684211,123.0
+2023,2023-01-01,Municipios,Puebla de la Sierra,267,-264.8148148148148,429.0
+2024,2024-01-01,Municipios,Puebla de la Sierra,-182,-168.16479400749063,-449.0
+2021,2021-01-01,Municipios,Puentes Viejas,84,,
+2022,2022-01-01,Municipios,Puentes Viejas,-14,-116.66666666666667,-98.0
+2023,2023-01-01,Municipios,Puentes Viejas,-62,342.8571428571429,-48.0
+2024,2024-01-01,Municipios,Puentes Viejas,44,-170.96774193548387,106.0
+2021,2021-01-01,Municipios,Quijorna,152,,
+2022,2022-01-01,Municipios,Quijorna,-119,-178.28947368421052,-271.0
+2023,2023-01-01,Municipios,Quijorna,-71,-40.33613445378151,48.0
+2024,2024-01-01,Municipios,Quijorna,45,-163.38028169014086,116.0
+2021,2021-01-01,Municipios,Rascafría,95,,
+2022,2022-01-01,Municipios,Rascafría,-17,-117.89473684210527,-112.0
+2023,2023-01-01,Municipios,Rascafría,-92,441.1764705882353,-75.0
+2024,2024-01-01,Municipios,Rascafría,4,-104.34782608695652,96.0
+2021,2021-01-01,Municipios,Redueña,613,,
+2022,2022-01-01,Municipios,Redueña,-584,-195.2691680261011,-1197.0
+2023,2023-01-01,Municipios,Redueña,24,-104.10958904109589,608.0
+2024,2024-01-01,Municipios,Redueña,-252,-1150.0,-276.0
+2021,2021-01-01,Municipios,Ribatejada,5,,
+2022,2022-01-01,Municipios,Ribatejada,-99,-2080.0,-104.0
+2023,2023-01-01,Municipios,Ribatejada,-142,43.434343434343425,-43.0
+2024,2024-01-01,Municipios,Ribatejada,15,-110.56338028169014,157.0
+2021,2021-01-01,Municipios,Rivas-Vaciamadrid,93,,
+2022,2022-01-01,Municipios,Rivas-Vaciamadrid,-118,-226.8817204301075,-211.0
+2023,2023-01-01,Municipios,Rivas-Vaciamadrid,-19,-83.89830508474576,99.0
+2024,2024-01-01,Municipios,Rivas-Vaciamadrid,21,-210.52631578947373,40.0
+2021,2021-01-01,Municipios,Robledillo de la Jara,-112,,
+2022,2022-01-01,Municipios,Robledillo de la Jara,217,-293.75,329.0
+2023,2023-01-01,Municipios,Robledillo de la Jara,214,-1.382488479262678,-3.0
+2024,2024-01-01,Municipios,Robledillo de la Jara,54,-74.76635514018693,-160.0
+2021,2021-01-01,Municipios,Robledo de Chavela,12,,
+2022,2022-01-01,Municipios,Robledo de Chavela,-79,-758.3333333333333,-91.0
+2023,2023-01-01,Municipios,Robledo de Chavela,-87,10.126582278481022,-8.0
+2024,2024-01-01,Municipios,Robledo de Chavela,11,-112.64367816091954,98.0
+2021,2021-01-01,Municipios,Robregordo,-18,,
+2022,2022-01-01,Municipios,Robregordo,147,-916.6666666666666,165.0
+2023,2023-01-01,Municipios,Robregordo,78,-46.93877551020408,-69.0
+2024,2024-01-01,Municipios,Robregordo,179,129.48717948717947,101.0
+2021,2021-01-01,Municipios,Rozas de Madrid (Las),54,,
+2022,2022-01-01,Municipios,Rozas de Madrid (Las),-78,-244.44444444444446,-132.0
+2023,2023-01-01,Municipios,Rozas de Madrid (Las),-34,-56.41025641025641,44.0
+2024,2024-01-01,Municipios,Rozas de Madrid (Las),0,-100.0,34.0
+2021,2021-01-01,Municipios,Rozas de Puerto Real,315,,
+2022,2022-01-01,Municipios,Rozas de Puerto Real,-244,-177.46031746031744,-559.0
+2023,2023-01-01,Municipios,Rozas de Puerto Real,138,-156.55737704918033,382.0
+2024,2024-01-01,Municipios,Rozas de Puerto Real,136,-1.449275362318836,-2.0
+2021,2021-01-01,Municipios,San Agustín del Guadalix,113,,
+2022,2022-01-01,Municipios,San Agustín del Guadalix,-111,-198.23008849557522,-224.0
+2023,2023-01-01,Municipios,San Agustín del Guadalix,-33,-70.27027027027026,78.0
+2024,2024-01-01,Municipios,San Agustín del Guadalix,5,-115.15151515151516,38.0
+2021,2021-01-01,Municipios,San Fernando de Henares,139,,
+2022,2022-01-01,Municipios,San Fernando de Henares,-153,-210.07194244604318,-292.0
+2023,2023-01-01,Municipios,San Fernando de Henares,-54,-64.70588235294117,99.0
+2024,2024-01-01,Municipios,San Fernando de Henares,4,-107.40740740740739,58.0
+2021,2021-01-01,Municipios,San Lorenzo de El Escorial,115,,
+2022,2022-01-01,Municipios,San Lorenzo de El Escorial,-135,-217.39130434782606,-250.0
+2023,2023-01-01,Municipios,San Lorenzo de El Escorial,-75,-44.44444444444444,60.0
+2024,2024-01-01,Municipios,San Lorenzo de El Escorial,15,-120.0,90.0
+2021,2021-01-01,Municipios,San Martín de Valdeiglesias,18,,
+2022,2022-01-01,Municipios,San Martín de Valdeiglesias,-187,-1138.888888888889,-205.0
+2023,2023-01-01,Municipios,San Martín de Valdeiglesias,-45,-75.93582887700535,142.0
+2024,2024-01-01,Municipios,San Martín de Valdeiglesias,22,-148.88888888888889,67.0
+2021,2021-01-01,Municipios,San Martín de la Vega,161,,
+2022,2022-01-01,Municipios,San Martín de la Vega,-196,-221.73913043478262,-357.0
+2023,2023-01-01,Municipios,San Martín de la Vega,-49,-75.0,147.0
+2024,2024-01-01,Municipios,San Martín de la Vega,55,-212.24489795918365,104.0
+2021,2021-01-01,Municipios,San Sebastián de los Reyes,99,,
+2022,2022-01-01,Municipios,San Sebastián de los Reyes,-126,-227.27272727272725,-225.0
+2023,2023-01-01,Municipios,San Sebastián de los Reyes,-38,-69.84126984126983,88.0
+2024,2024-01-01,Municipios,San Sebastián de los Reyes,18,-147.36842105263156,56.0
+2021,2021-01-01,Municipios,Santa María de la Alameda,144,,
+2022,2022-01-01,Municipios,Santa María de la Alameda,-203,-240.97222222222223,-347.0
+2023,2023-01-01,Municipios,Santa María de la Alameda,45,-122.16748768472907,248.0
+2024,2024-01-01,Municipios,Santa María de la Alameda,59,31.11111111111111,14.0
+2021,2021-01-01,Municipios,Santorcaz,74,,
+2022,2022-01-01,Municipios,Santorcaz,12,-83.78378378378379,-62.0
+2023,2023-01-01,Municipios,Santorcaz,31,158.33333333333334,19.0
+2024,2024-01-01,Municipios,Santorcaz,28,-9.677419354838712,-3.0
+2021,2021-01-01,Municipios,Santos de la Humosa (Los),122,,
+2022,2022-01-01,Municipios,Santos de la Humosa (Los),-89,-172.95081967213116,-211.0
+2023,2023-01-01,Municipios,Santos de la Humosa (Los),-76,-14.60674157303371,13.0
+2024,2024-01-01,Municipios,Santos de la Humosa (Los),13,-117.10526315789474,89.0
+2021,2021-01-01,Municipios,Serna del Monte (La),-891,,
+2022,2022-01-01,Municipios,Serna del Monte (La),-185,-79.2368125701459,706.0
+2023,2023-01-01,Municipios,Serna del Monte (La),12,-106.48648648648648,197.0
+2024,2024-01-01,Municipios,Serna del Monte (La),89,641.6666666666667,77.0
+2021,2021-01-01,Municipios,Serranillos del Valle,93,,
+2022,2022-01-01,Municipios,Serranillos del Valle,-125,-234.4086021505376,-218.0
+2023,2023-01-01,Municipios,Serranillos del Valle,-54,-56.800000000000004,71.0
+2024,2024-01-01,Municipios,Serranillos del Valle,59,-209.25925925925927,113.0
+2021,2021-01-01,Municipios,Sevilla la Nueva,148,,
+2022,2022-01-01,Municipios,Sevilla la Nueva,-192,-229.72972972972974,-340.0
+2023,2023-01-01,Municipios,Sevilla la Nueva,-55,-71.35416666666667,137.0
+2024,2024-01-01,Municipios,Sevilla la Nueva,24,-143.63636363636363,79.0
+2021,2021-01-01,Municipios,Somosierra,0,,
+2022,2022-01-01,Municipios,Somosierra,69,inf,69.0
+2023,2023-01-01,Municipios,Somosierra,-331,-579.7101449275362,-400.0
+2024,2024-01-01,Municipios,Somosierra,-167,-49.546827794561935,164.0
+2021,2021-01-01,Municipios,Soto del Real,81,,
+2022,2022-01-01,Municipios,Soto del Real,-102,-225.92592592592595,-183.0
+2023,2023-01-01,Municipios,Soto del Real,-33,-67.64705882352942,69.0
+2024,2024-01-01,Municipios,Soto del Real,18,-154.54545454545453,51.0
+2021,2021-01-01,Municipios,Talamanca de Jarama,69,,
+2022,2022-01-01,Municipios,Talamanca de Jarama,-114,-265.21739130434787,-183.0
+2023,2023-01-01,Municipios,Talamanca de Jarama,-22,-80.70175438596492,92.0
+2024,2024-01-01,Municipios,Talamanca de Jarama,26,-218.18181818181816,48.0
+2021,2021-01-01,Municipios,Tielmes,15,,
+2022,2022-01-01,Municipios,Tielmes,-148,-1086.6666666666667,-163.0
+2023,2023-01-01,Municipios,Tielmes,-33,-77.7027027027027,115.0
+2024,2024-01-01,Municipios,Tielmes,14,-142.42424242424244,47.0
+2021,2021-01-01,Municipios,Titulcia,225,,
+2022,2022-01-01,Municipios,Titulcia,-133,-159.11111111111111,-358.0
+2023,2023-01-01,Municipios,Titulcia,-89,-33.08270676691729,44.0
+2024,2024-01-01,Municipios,Titulcia,49,-155.0561797752809,138.0
+2021,2021-01-01,Municipios,Torrejón de Ardoz,144,,
+2022,2022-01-01,Municipios,Torrejón de Ardoz,-166,-215.27777777777777,-310.0
+2023,2023-01-01,Municipios,Torrejón de Ardoz,-75,-54.81927710843373,91.0
+2024,2024-01-01,Municipios,Torrejón de Ardoz,43,-157.33333333333331,118.0
+2021,2021-01-01,Municipios,Torrejón de Velasco,47,,
+2022,2022-01-01,Municipios,Torrejón de Velasco,-10,-121.27659574468086,-57.0
+2023,2023-01-01,Municipios,Torrejón de Velasco,-57,470.0,-47.0
+2024,2024-01-01,Municipios,Torrejón de Velasco,3,-105.26315789473684,60.0
+2021,2021-01-01,Municipios,Torrejón de la Calzada,6,,
+2022,2022-01-01,Municipios,Torrejón de la Calzada,-109,-1916.6666666666667,-115.0
+2023,2023-01-01,Municipios,Torrejón de la Calzada,-34,-68.80733944954129,75.0
+2024,2024-01-01,Municipios,Torrejón de la Calzada,3,-108.8235294117647,37.0
+2021,2021-01-01,Municipios,Torrelaguna,69,,
+2022,2022-01-01,Municipios,Torrelaguna,-94,-236.231884057971,-163.0
+2023,2023-01-01,Municipios,Torrelaguna,-15,-84.04255319148936,79.0
+2024,2024-01-01,Municipios,Torrelaguna,1,-106.66666666666667,16.0
+2021,2021-01-01,Municipios,Torrelodones,66,,
+2022,2022-01-01,Municipios,Torrelodones,-81,-222.72727272727275,-147.0
+2023,2023-01-01,Municipios,Torrelodones,-41,-49.382716049382715,40.0
+2024,2024-01-01,Municipios,Torrelodones,2,-104.8780487804878,43.0
+2021,2021-01-01,Municipios,Torremocha de Jarama,138,,
+2022,2022-01-01,Municipios,Torremocha de Jarama,-63,-145.65217391304347,-201.0
+2023,2023-01-01,Municipios,Torremocha de Jarama,-17,-73.01587301587303,46.0
+2024,2024-01-01,Municipios,Torremocha de Jarama,5,-129.41176470588235,22.0
+2021,2021-01-01,Municipios,Torres de la Alameda,82,,
+2022,2022-01-01,Municipios,Torres de la Alameda,-181,-320.7317073170732,-263.0
+2023,2023-01-01,Municipios,Torres de la Alameda,-48,-73.48066298342542,133.0
+2024,2024-01-01,Municipios,Torres de la Alameda,24,-150.0,72.0
+2021,2021-01-01,Municipios,Tres Cantos,54,,
+2022,2022-01-01,Municipios,Tres Cantos,-71,-231.4814814814815,-125.0
+2023,2023-01-01,Municipios,Tres Cantos,-49,-30.98591549295775,22.0
+2024,2024-01-01,Municipios,Tres Cantos,6,-112.24489795918366,55.0
+2021,2021-01-01,Municipios,Valdaracete,-61,,
+2022,2022-01-01,Municipios,Valdaracete,-72,18.032786885245898,-11.0
+2023,2023-01-01,Municipios,Valdaracete,-104,44.44444444444444,-32.0
+2024,2024-01-01,Municipios,Valdaracete,93,-189.4230769230769,197.0
+2021,2021-01-01,Municipios,Valdeavero,27,,
+2022,2022-01-01,Municipios,Valdeavero,-72,-366.66666666666663,-99.0
+2023,2023-01-01,Municipios,Valdeavero,-142,97.22222222222223,-70.0
+2024,2024-01-01,Municipios,Valdeavero,27,-119.01408450704226,169.0
+2021,2021-01-01,Municipios,Valdelaguna,8,,
+2022,2022-01-01,Municipios,Valdelaguna,17,112.5,9.0
+2023,2023-01-01,Municipios,Valdelaguna,-115,-776.4705882352941,-132.0
+2024,2024-01-01,Municipios,Valdelaguna,29,-125.21739130434781,144.0
+2021,2021-01-01,Municipios,Valdemanco,66,,
+2022,2022-01-01,Municipios,Valdemanco,-5,-107.57575757575756,-71.0
+2023,2023-01-01,Municipios,Valdemanco,-71,1320.0,-66.0
+2024,2024-01-01,Municipios,Valdemanco,52,-173.2394366197183,123.0
+2021,2021-01-01,Municipios,Valdemaqueda,46,,
+2022,2022-01-01,Municipios,Valdemaqueda,-212,-560.8695652173913,-258.0
+2023,2023-01-01,Municipios,Valdemaqueda,-157,-25.943396226415093,55.0
+2024,2024-01-01,Municipios,Valdemaqueda,133,-184.71337579617835,290.0
+2021,2021-01-01,Municipios,Valdemorillo,83,,
+2022,2022-01-01,Municipios,Valdemorillo,-136,-263.855421686747,-219.0
+2023,2023-01-01,Municipios,Valdemorillo,-11,-91.91176470588235,125.0
+2024,2024-01-01,Municipios,Valdemorillo,3,-127.27272727272727,14.0
+2021,2021-01-01,Municipios,Valdemoro,113,,
+2022,2022-01-01,Municipios,Valdemoro,-163,-244.2477876106195,-276.0
+2023,2023-01-01,Municipios,Valdemoro,-58,-64.41717791411044,105.0
+2024,2024-01-01,Municipios,Valdemoro,37,-163.79310344827587,95.0
+2021,2021-01-01,Municipios,Valdeolmos-Alalpardo,101,,
+2022,2022-01-01,Municipios,Valdeolmos-Alalpardo,-73,-172.27722772277227,-174.0
+2023,2023-01-01,Municipios,Valdeolmos-Alalpardo,-92,26.027397260273965,-19.0
+2024,2024-01-01,Municipios,Valdeolmos-Alalpardo,6,-106.5217391304348,98.0
+2021,2021-01-01,Municipios,Valdepiélagos,34,,
+2022,2022-01-01,Municipios,Valdepiélagos,-121,-455.88235294117646,-155.0
+2023,2023-01-01,Municipios,Valdepiélagos,-1,-99.17355371900827,120.0
+2024,2024-01-01,Municipios,Valdepiélagos,19,-2000.0,20.0
+2021,2021-01-01,Municipios,Valdetorres de Jarama,111,,
+2022,2022-01-01,Municipios,Valdetorres de Jarama,-151,-236.03603603603602,-262.0
+2023,2023-01-01,Municipios,Valdetorres de Jarama,-4,-97.35099337748345,147.0
+2024,2024-01-01,Municipios,Valdetorres de Jarama,16,-500.0,20.0
+2021,2021-01-01,Municipios,Valdilecha,251,,
+2022,2022-01-01,Municipios,Valdilecha,-136,-154.18326693227093,-387.0
+2023,2023-01-01,Municipios,Valdilecha,-15,-88.97058823529412,121.0
+2024,2024-01-01,Municipios,Valdilecha,23,-253.33333333333331,38.0
+2021,2021-01-01,Municipios,Valverde de Alcalá,8,,
+2022,2022-01-01,Municipios,Valverde de Alcalá,-32,-500.0,-40.0
+2023,2023-01-01,Municipios,Valverde de Alcalá,-21,-34.375,11.0
+2024,2024-01-01,Municipios,Valverde de Alcalá,3,-114.28571428571428,24.0
+2021,2021-01-01,Municipios,Velilla de San Antonio,162,,
+2022,2022-01-01,Municipios,Velilla de San Antonio,-172,-206.17283950617286,-334.0
+2023,2023-01-01,Municipios,Velilla de San Antonio,-33,-80.81395348837209,139.0
+2024,2024-01-01,Municipios,Velilla de San Antonio,59,-278.7878787878788,92.0
+2021,2021-01-01,Municipios,Vellón (El),9,,
+2022,2022-01-01,Municipios,Vellón (El),-16,-277.77777777777777,-25.0
+2023,2023-01-01,Municipios,Vellón (El),-79,393.75,-63.0
+2024,2024-01-01,Municipios,Vellón (El),73,-192.40506329113924,152.0
+2021,2021-01-01,Municipios,Venturada,99,,
+2022,2022-01-01,Municipios,Venturada,-89,-189.8989898989899,-188.0
+2023,2023-01-01,Municipios,Venturada,19,-121.34831460674158,108.0
+2024,2024-01-01,Municipios,Venturada,75,294.7368421052631,56.0
+2021,2021-01-01,Municipios,Villa del Prado,13,,
+2022,2022-01-01,Municipios,Villa del Prado,-113,-969.2307692307692,-126.0
+2023,2023-01-01,Municipios,Villa del Prado,-28,-75.2212389380531,85.0
+2024,2024-01-01,Municipios,Villa del Prado,97,-446.42857142857144,125.0
+2021,2021-01-01,Municipios,Villaconejos,1,,
+2022,2022-01-01,Municipios,Villaconejos,-99,-10000.0,-100.0
+2023,2023-01-01,Municipios,Villaconejos,-138,39.393939393939405,-39.0
+2024,2024-01-01,Municipios,Villaconejos,1,-100.72463768115942,139.0
+2021,2021-01-01,Municipios,Villalbilla,86,,
+2022,2022-01-01,Municipios,Villalbilla,-158,-283.7209302325581,-244.0
+2023,2023-01-01,Municipios,Villalbilla,-27,-82.91139240506328,131.0
+2024,2024-01-01,Municipios,Villalbilla,28,-203.70370370370372,55.0
+2021,2021-01-01,Municipios,Villamanrique de Tajo,-137,,
+2022,2022-01-01,Municipios,Villamanrique de Tajo,-74,-45.98540145985402,63.0
+2023,2023-01-01,Municipios,Villamanrique de Tajo,133,-279.72972972972974,207.0
+2024,2024-01-01,Municipios,Villamanrique de Tajo,-222,-266.9172932330827,-355.0
+2021,2021-01-01,Municipios,Villamanta,5,,
+2022,2022-01-01,Municipios,Villamanta,-166,-3420.0000000000005,-171.0
+2023,2023-01-01,Municipios,Villamanta,56,-133.73493975903614,222.0
+2024,2024-01-01,Municipios,Villamanta,21,-62.5,-35.0
+2021,2021-01-01,Municipios,Villamantilla,112,,
+2022,2022-01-01,Municipios,Villamantilla,-121,-208.03571428571428,-233.0
+2023,2023-01-01,Municipios,Villamantilla,-92,-23.966942148760328,29.0
+2024,2024-01-01,Municipios,Villamantilla,58,-163.0434782608696,150.0
+2021,2021-01-01,Municipios,Villanueva de Perales,166,,
+2022,2022-01-01,Municipios,Villanueva de Perales,-78,-146.9879518072289,-244.0
+2023,2023-01-01,Municipios,Villanueva de Perales,-84,7.692307692307687,-6.0
+2024,2024-01-01,Municipios,Villanueva de Perales,11,-113.09523809523809,95.0
+2021,2021-01-01,Municipios,Villanueva de la Cañada,88,,
+2022,2022-01-01,Municipios,Villanueva de la Cañada,-8,-109.09090909090908,-96.0
+2023,2023-01-01,Municipios,Villanueva de la Cañada,-31,287.5,-23.0
+2024,2024-01-01,Municipios,Villanueva de la Cañada,8,-125.80645161290323,39.0
+2021,2021-01-01,Municipios,Villanueva del Pardillo,68,,
+2022,2022-01-01,Municipios,Villanueva del Pardillo,-105,-254.41176470588235,-173.0
+2023,2023-01-01,Municipios,Villanueva del Pardillo,-34,-67.61904761904762,71.0
+2024,2024-01-01,Municipios,Villanueva del Pardillo,2,-105.88235294117648,36.0
+2021,2021-01-01,Municipios,Villar del Olmo,97,,
+2022,2022-01-01,Municipios,Villar del Olmo,-56,-157.7319587628866,-153.0
+2023,2023-01-01,Municipios,Villar del Olmo,-112,100.0,-56.0
+2024,2024-01-01,Municipios,Villar del Olmo,13,-111.60714285714286,125.0
+2021,2021-01-01,Municipios,Villarejo de Salvanés,44,,
+2022,2022-01-01,Municipios,Villarejo de Salvanés,-96,-318.1818181818182,-140.0
+2023,2023-01-01,Municipios,Villarejo de Salvanés,-56,-41.666666666666664,40.0
+2024,2024-01-01,Municipios,Villarejo de Salvanés,1,-101.78571428571428,57.0
+2021,2021-01-01,Municipios,Villaviciosa de Odón,72,,
+2022,2022-01-01,Municipios,Villaviciosa de Odón,-98,-236.11111111111111,-170.0
+2023,2023-01-01,Municipios,Villaviciosa de Odón,-25,-74.48979591836735,73.0
+2024,2024-01-01,Municipios,Villaviciosa de Odón,5,-120.0,30.0
+2021,2021-01-01,Municipios,Villavieja del Lozoya,85,,
+2022,2022-01-01,Municipios,Villavieja del Lozoya,55,-35.29411764705882,-30.0
+2023,2023-01-01,Municipios,Villavieja del Lozoya,-89,-261.8181818181818,-144.0
+2024,2024-01-01,Municipios,Villavieja del Lozoya,-232,160.6741573033708,-143.0
+2021,2021-01-01,Municipios,Zarzalejo,98,,
+2022,2022-01-01,Municipios,Zarzalejo,-34,-134.6938775510204,-132.0
+2023,2023-01-01,Municipios,Zarzalejo,-65,91.1764705882353,-31.0
+2024,2024-01-01,Municipios,Zarzalejo,51,-178.46153846153845,116.0
+2021,2021-01-01,Municipios,Álamo (El),184,,
+2022,2022-01-01,Municipios,Álamo (El),-206,-211.95652173913047,-390.0
+2023,2023-01-01,Municipios,Álamo (El),-7,-96.60194174757282,199.0
+2024,2024-01-01,Municipios,Álamo (El),8,-214.28571428571428,15.0
+2021,2021-01-01,Zonas Estadísticas,Este Metropolitano,119,,
+2022,2022-01-01,Zonas Estadísticas,Este Metropolitano,-153,-228.57142857142856,-272.0
+2023,2023-01-01,Zonas Estadísticas,Este Metropolitano,-55,-64.05228758169935,98.0
+2024,2024-01-01,Zonas Estadísticas,Este Metropolitano,31,-156.36363636363635,86.0
+2021,2021-01-01,Zonas Estadísticas,Municipio de Madrid,131,,
+2022,2022-01-01,Zonas Estadísticas,Municipio de Madrid,-163,-224.42748091603053,-294.0
+2023,2023-01-01,Zonas Estadísticas,Municipio de Madrid,-38,-76.68711656441718,125.0
+2024,2024-01-01,Zonas Estadísticas,Municipio de Madrid,2,-105.26315789473684,40.0
+2021,2021-01-01,Zonas Estadísticas,Nordeste Comunidad,77,,
+2022,2022-01-01,Zonas Estadísticas,Nordeste Comunidad,-127,-264.93506493506493,-204.0
+2023,2023-01-01,Zonas Estadísticas,Nordeste Comunidad,-47,-62.99212598425197,80.0
+2024,2024-01-01,Zonas Estadísticas,Nordeste Comunidad,24,-151.06382978723403,71.0
+2021,2021-01-01,Zonas Estadísticas,Norte Metropolitano,94,,
+2022,2022-01-01,Zonas Estadísticas,Norte Metropolitano,-122,-229.78723404255322,-216.0
+2023,2023-01-01,Zonas Estadísticas,Norte Metropolitano,-42,-65.57377049180329,80.0
+2024,2024-01-01,Zonas Estadísticas,Norte Metropolitano,11,-126.19047619047619,53.0
+2021,2021-01-01,Zonas Estadísticas,Oeste Metropolitano,69,,
+2022,2022-01-01,Zonas Estadísticas,Oeste Metropolitano,-97,-240.57971014492753,-166.0
+2023,2023-01-01,Zonas Estadísticas,Oeste Metropolitano,-29,-70.10309278350515,68.0
+2024,2024-01-01,Zonas Estadísticas,Oeste Metropolitano,6,-120.6896551724138,35.0
+2021,2021-01-01,Zonas Estadísticas,Sierra Central,73,,
+2022,2022-01-01,Zonas Estadísticas,Sierra Central,-116,-258.9041095890411,-189.0
+2023,2023-01-01,Zonas Estadísticas,Sierra Central,-31,-73.27586206896552,85.0
+2024,2024-01-01,Zonas Estadísticas,Sierra Central,7,-122.58064516129032,38.0
+2021,2021-01-01,Zonas Estadísticas,Sierra Norte,98,,
+2022,2022-01-01,Zonas Estadísticas,Sierra Norte,-13,-113.26530612244898,-111.0
+2023,2023-01-01,Zonas Estadísticas,Sierra Norte,-22,69.23076923076923,-9.0
+2024,2024-01-01,Zonas Estadísticas,Sierra Norte,1,-104.54545454545455,23.0
+2021,2021-01-01,Zonas Estadísticas,Sierra Sur,108,,
+2022,2022-01-01,Zonas Estadísticas,Sierra Sur,-144,-233.33333333333331,-252.0
+2023,2023-01-01,Zonas Estadísticas,Sierra Sur,-74,-48.611111111111114,70.0
+2024,2024-01-01,Zonas Estadísticas,Sierra Sur,8,-110.8108108108108,82.0
+2021,2021-01-01,Zonas Estadísticas,Sudeste Comunidad,92,,
+2022,2022-01-01,Zonas Estadísticas,Sudeste Comunidad,-135,-246.73913043478262,-227.0
+2023,2023-01-01,Zonas Estadísticas,Sudeste Comunidad,-61,-54.81481481481482,74.0
+2024,2024-01-01,Zonas Estadísticas,Sudeste Comunidad,22,-136.0655737704918,83.0
+2021,2021-01-01,Zonas Estadísticas,Sudoeste Comunidad,97,,
+2022,2022-01-01,Zonas Estadísticas,Sudoeste Comunidad,-125,-228.86597938144328,-222.0
+2023,2023-01-01,Zonas Estadísticas,Sudoeste Comunidad,-55,-56.00000000000001,70.0
+2024,2024-01-01,Zonas Estadísticas,Sudoeste Comunidad,13,-123.63636363636363,68.0
+2021,2021-01-01,Zonas Estadísticas,Sur Metropolitano,122,,
+2022,2022-01-01,Zonas Estadísticas,Sur Metropolitano,-162,-232.78688524590163,-284.0
+2023,2023-01-01,Zonas Estadísticas,Sur Metropolitano,-55,-66.0493827160494,107.0
+2024,2024-01-01,Zonas Estadísticas,Sur Metropolitano,31,-156.36363636363635,86.0
